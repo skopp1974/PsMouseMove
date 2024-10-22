@@ -1,0 +1,4 @@
+Install-Module -Name PS2EXE -Force -AllowClobber
+Import-Module PS2EXE
+Invoke-PS2EXE -InputFile C:\REPOS\PsMouseMove\PsMouseMove\mmove.ps1 -OutputFile "C:\REPOS\PsMouseMove\PsMouseMove\mmove.exe"
+Win-PS2EXE
