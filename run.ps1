@@ -1,6 +1,6 @@
 
 # Define the number of times to launch the executable
-$InstanceCount = 2
+$InstanceCount = 5
 # Define the interval between launches in seconds
 $launchInterval = 5
 
